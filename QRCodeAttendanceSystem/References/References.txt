@@ -1,0 +1,7 @@
+The python implementation of this project was in part influenced by the Open Sourced project
+mentioned below. The implementation saved decent time in development phase which contributed to more time in 
+testing and aided in removing a critical design flaw early in development of QR-Code to be scanned by student
+which was later changed to QR-Code to be scanned by faculty as it removes almost all
+possibility of marking fake attendance by sharing QR-Codes (in earlier design).
+
+https://github.com/Mohamed-Ali-Mohamed/QR-Codes-Attendance-System
